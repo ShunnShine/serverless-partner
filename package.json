@@ -1,0 +1,25 @@
+{
+  "name": "serverless-partner",
+  "version": "1.0.0",
+  "description": "![header](https://user-images.githubusercontent.com/69332964/114803220-14269100-9d6d-11eb-9a3a-e92a637e5d79.png) ## Intro To Serverless Pair-Programming *Throughout the bootcamp, you will be presented with a problem each week that aims to reinforce the skills you learned that week.* ### ✏️ Guidelines * You will work with a partner * Whoever is \"driving\" that week will submit their code on behalf of you both * Fork this repo to get started!",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "rot13-cipher": "^1.0.0"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShunnShine/serverless-partner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShunnShine/serverless-partner/issues"
+  },
+  "homepage": "https://github.com/ShunnShine/serverless-partner#readme"
+}
